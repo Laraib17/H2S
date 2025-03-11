@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408418106565",
+    "project_id": "humsafar-a4ec5",
+    "storage_bucket": "humsafar-a4ec5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408418106565:android:a9be9b294924d5d2b6c4ac",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS7_Z2UkAOQ6tgUOXCY4zdoW3uXuE68oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
